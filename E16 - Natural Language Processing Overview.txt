@@ -1,0 +1,8 @@
+E16 - Natural Language Processing Overview
+Grammarly 
+Grammarly es una herramienta que permite a los usuarios que la empleen, mejorar su redacción a la hora de realizar escritos en ingles sea en equipos de sobremesa o dispositivo móviles, esta herramienta funciona bajo los parámetros de sugerencia donde le indica al usuario de la herramienta si es necesario o no realizar una corrección de texto.
+Para lograr este fin, la herramienta cuenta con un sistema apoyado en machine learning y NLP (Natural Language Processing) los cueles en conjunto permiten que el programa pueda realizar las recomendaciones adecuadas por el tipo de texto. Para lograr este cometido la empresa partió desde con la siguiente configuración de algoritmos que permiten realizar esta tarea, los cuales son:
+* Fase de entrenamiento: a fin de que el programa aprendiese a reconocer los diferentes patrones de texto, la empresa empezó con realizar un algoritmo supervisado el cual permitiera reconocer los patrones en los textos empledo estructuras de NLP, a fin de que pudiese generar la mejor predicción de la siguiente palabra.
+* Fase de implementación: en este punto decidieron emplear una estructura de aprendizaje no supervisado el cual toma como punto de partida el algoritmo entrenado con los textos y cuya variable de respuesta es la implementación o no implementación de la corrección del texto el cual ayuda a que el programa reajuste sus parámetros a fin de generar un mayor rendimiento de la aplicación 
+Con esto se logra no solo que el programa genere una predicción aleatoria, sino que esta se adecue a las necesidades de cada usuario en particular permitiendo tener una idea de contexto más acertada según el uso que se le de 
+
